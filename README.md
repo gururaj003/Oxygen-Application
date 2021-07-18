@@ -15,9 +15,9 @@ An application that will seamlessly help farmers to cultivate crops and provide 
 TECH STACK:
   Following is the tech stack being used for main project:
   
-  ToolKit: Android Studio
-  Programming language: JAVA
-  SDKs - Java SDK
+  1) ToolKit: Android Studio
+  2) Programming language: JAVA
+  3) SDKs - Java SDK
   
   
   
